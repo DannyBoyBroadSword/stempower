@@ -4,5 +4,3 @@ node_js:
 cache: yarn
 before_install:
   - yarn
-install:
-  - npm run dev
