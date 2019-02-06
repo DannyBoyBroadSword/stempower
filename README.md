@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/DannyBoyBroadSword/stempower.svg?branch=master)](https://travis-ci.com/DannyBoyBroadSword/stempower)
+
 # React + Node Starter
 _for [Heroku](https://www.heroku.com/) deployment_
 
